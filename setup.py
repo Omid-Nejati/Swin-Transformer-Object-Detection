@@ -13,7 +13,7 @@ def readme():
     return content
 
 
-version_file = 'mmdet/version.py'
+version_file = './mmdet/version.py'
 
 
 def get_version():
